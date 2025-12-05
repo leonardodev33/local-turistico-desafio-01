@@ -1,4 +1,4 @@
-# Local Turístico: Conheça Rio de Janeiro
+# Local Turístico: Conheça o Rio de Janeiro
 
 ![preview](./.github/preview.png)
 
