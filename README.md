@@ -14,6 +14,4 @@ Este projeto mostra alguns dos destinos mais incríveis do Rio de Janeiro — pr
 - CSS  
 - Git & GitHub
 
-## 💚 Contato
 
-Se quiser entrar em contato: seu-email@example.com
