@@ -6,7 +6,7 @@
 
 Este projeto mostra alguns dos destinos mais incríveis do Rio de Janeiro — praias, paisagens, história e cultura em uma landing page simples e envolvente.
 
-[🔗 Acesse o site aqui](https://SEU_USUARIO.github.io/NOME_DO_REPO/)
+[🔗 Acesse o site aqui](https://leonardodev33.github.io/local-turistico-desafio-01/)
 
 ## 🛠️ Tecnologias utilizadas
 
