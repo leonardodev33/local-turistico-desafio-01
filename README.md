@@ -1,6 +1,6 @@
 # Local Turístico: Conheça o Rio de Janeiro
 
-![preview](./.github/preview.png)
+![preview](https://github.com/leonardodev33/local-turistico-desafio-01/blob/main/imgs/preview.png?raw=true)
 
 > Desenvolvimento Full‑Stack: página de turismo com HTML e CSS
 
